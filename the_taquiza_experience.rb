@@ -2,7 +2,7 @@ def menu
   menu = {
     "sections" => [
       {
-        name: "TACOS",
+        name: "TACOSSSSSSS",
         description: "Freshhhhhhhhh",
         dishes:
         [
